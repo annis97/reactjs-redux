@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "afifuddin",
+          "alamat": "Perkalongan",
+          "umur": 24,
+          "noPhone": "084563"
+        },
+        {
+          "id": 2,
+          "nama": "bayu",
+          "alamat": "Jepara",
+          "umur": 21,
+          "noPhone": "088720"
+        },
+        {
+          "id": 3,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "noPhone": "089803"
+        },
+        {
+          "id": 4,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "noPhone": "089803"
+        },
+        {
+          "id": 5,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "noPhone": "089803"
+        },
+        {
+          "id": 6,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "noPhone": "089803"
+        },
+        {
+          "id": 7,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "noPhone": "089803"
+        },
+        {
+          "id": 8,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "noPhone": "089803"
+        },
+        {
+          "id": 9,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "noPhone": "089803"
+        },
+        {
+          "id": 10,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "noPhone": "089803"
+        },
+        {
+          "id": 11,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "noPhone": "089803"
+        },
+        {
+          "id": 12,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "noPhone": "089803"
+        }
+      ]
+}
